@@ -104,7 +104,7 @@ body{font-family: 'Roboto', sans-serif;
   #fixedlogo{position: fixed;
     left: 10px;
     top: 26px;
-    width: 60px;}
+    width: 40px;}
 
 .nav-item{
     text-align: center;
@@ -268,6 +268,7 @@ body{font-family: 'Roboto', sans-serif;
 .swatch{
     height: 50px;
     width: 100%;
+    margin-bottom: 10px;
 }
 #orange{
     background: linear-gradient(to right,#F05426 0%,#F05426 95%,#F05426 50%,white 5%,white 100%);
@@ -289,7 +290,7 @@ body{font-family: 'Roboto', sans-serif;
 #wireframe2{
     width: 100%;
 }
-#wireframe1{
+#wireframe1{padding-right: 75px;
 }
 /*User Testing & Outcomes*/
 .userTestingAndOutcomes{
@@ -340,6 +341,7 @@ body{font-family: 'Roboto', sans-serif;
     margin-right: 75px;
 }
 .homeFinal{
+    width: 80%;
     display: flex;
     align-content: center;
     justify-content: center;
